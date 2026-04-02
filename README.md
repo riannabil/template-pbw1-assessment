@@ -1,10 +1,10 @@
 ## Identitas
 
-Nama: 
+Nama: Muhammad Rian Nabil Maulana
 
-NIM : 
+NIM : 607062500028
 
-Kelas :
+Kelas : D3IF-49-04
 
 ## Instruksi
 
